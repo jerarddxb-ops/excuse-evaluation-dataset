@@ -1,0 +1,61 @@
+Task/UNIT,Response ID,Model Response,Believability,Specificity,Emotional,Suspicion,Total,Rank,Justification (1-2 sentences max)
+1,A,"Hi, I’m really sorry but I woke up this morning with a bad migraine and it’s making it difficult to function properly. I’m going to rest and hopefully recover by tomorrow.",4,3,3,4,14,2,"It is a believable excuse, but more context and detail would help."
+1,B,I won’t be coming in today. Something came up.,2,1,1,2,6,3,"Super vague, no emotion, invites questions"
+1,C,"Hey, sorry for the short notice — my car broke down on my way to work this morning and I’m currently waiting for roadside assistance. I’ll keep you updated once I know more.",5,5,5,5,20,1,"Completely believable, appropriate tone and context."
+2,A,"Hi, I’m really sorry but I’ve been up most of the night with a stomach bug and I’m still feeling pretty unwell this morning. I don’t think I’ll be able to make it in today, but I’ll keep you posted if anything changes.",5,5,5,4,19,1,"This is a highly believable excuse, delivered in an appropriate tone. Only slightly suspiscious. "
+2,B,I can’t come in today because something unexpected happened at home.,2,2,1,2,7,3,There is not enough detail or emotion for this excuse to be taken seriously.
+2,C,"Hey, apologies for the late notice — my neighbor had a medical emergency this morning and I had to step in to help get them to the hospital. I’ll likely need to stay with them for a bit, so I won’t be able to come in today.",3,4,4,3,14,2,"This response is detailed and plausible, but more context would make it stronger."
+3,A,"Hi, I’m really sorry but I have a family matter I need to attend to this morning. I may be unavailable for most of the day and will keep you updated as things progress",3,2,4,3,12,2,"The response is plausible, but could use more detail or context to make it more believable."
+3,B,I won’t be coming in today because I didn’t get enough sleep last night.,1,1,1,1,4,3,"Not enough detail or emotion, very suspicious. "
+3,C,"Hey, apologies for the late message — my child’s school just called to say they’re unwell and need to be picked up immediately. I’ll need to take care of them for the day, so I won’t be able to make it in.",4,4,4,4,16,1,"Detailed and appropriate response, more context and emotion would make it stronger."
+4,A,"Hi, I’m really sorry but I have a doctor’s appointment this morning that I can’t reschedule on short notice. I’ll be unavailable for a few hours but will try to catch up later in the day.",2,3,5,2,12,2,"This response is detailed and uses the correct tone, however it lacks believability because doctor appointments will be known about ahead of time."
+4,B,I won’t be able to come in today due to personal reasons.,2,1,1,1,5,3,"This response severely lacks detail and emotion, while not implausible, it will raise high suspicion"
+4,C,"Hey, apologies for the late notice — my internet has been down since early this morning and I’m waiting for the service provider to resolve it. I won’t be able to work until it’s fixed.",5,5,4,5,19,1,"This response is realistic, detailed. I think end is a little harsh emotionally."
+5,A,"Hi, I’m feeling quite burnt out today and think I need to take the day to rest and reset.",3,2,3,3,11,3,The response is rather vague and lacks emotion.
+5,B,"Sorry, I can’t make it today — I’ve got a flat tire and need to get it replaced before I can get anywhere.",3,3,3,3,12,2,"Also vague, but the apology makes it stronger."
+5,C,"Hi, I’m really sorry but I’ve come down with a fever overnight and don’t think I’ll be able to work effectively today. I’ll rest and aim to return tomorrow.",4,4,5,4,17,1,This is specific and emotioanlly appropriate but context and detail would make it stronger.
+6,A,"Hi, something urgent came up this morning and I won’t be able to make it in today.",2,1,1,1,5,2,This response lacks detail but is theoretically plausible. Likely to be questioned.
+6,B,"Hey, apologies — my sibling was involved in a minor accident this morning and I need to help them sort things out. I’ll keep you posted.",4,4,5,4,17,1,"Detailed and realistic, more detail would improve it. ""Sort things out"" is vague."
+6,C,I won’t be coming in today as I need to take care of some errands.,1,1,1,1,4,3,Absurd and lacking detail or emotion.
+7,A,"Hi, I’m really sorry but I’ve been dealing with severe back pain since last night and it hasn’t improved this morning, so I won’t be able to come in today.",3,4,4,3,14,2,"It is plausible with mild detail, but without further context it could raise suspicion. "
+7,B,"Hey, sorry for the short notice — my flight back home was delayed overnight and I’ve only just arrived, so I won’t be able to make it in today.",4,4,4,4,16,1,"The response is believable, but a little more detail and emotion would make it stronger."
+7,C,I won’t be at work today because I have other things to take care of.,1,1,1,1,4,3,"Absurd, no detail or emotion. Unacceptable to anyone. "
+8,A,"Hi, I’m really sorry but my child’s daycare is closed unexpectedly today, so I’ll need to stay home and look after them.",3,3,4,4,14,2,"While plausible and with written appropriate emotion, the excuse is unlikely."
+8,B,I won’t be coming in today.,1,1,1,1,4,3,"Absurd, no detail or emotion. Unacceptable to anyone. "
+8,C,"Hey, apologies — I had a minor plumbing issue at home this morning that needs to be fixed urgently, so I’ll be delayed for most of the day.",5,4,4,4,17,1,"Very plausible, details provided. More detail would be expected."
+9,A,"Hi, I’m really sorry but I woke up feeling dizzy this morning and don’t feel safe driving or working like this. I’m going to rest and monitor it today.",4,4,5,4,17,2,"It is appropriate, however, context or history would improve it."
+9,B,"I won’t be coming in today, I have something to deal with.",2,2,2,2,8,3,"Very vague, no apology. Plausible, but weak."
+9,C,"Hey, apologies for the late notice — my landlord needs urgent access to my apartment this morning due to a leak affecting another unit, so I need to be here while it’s being fixed.",5,4,4,5,18,1,"Detailed and common, makes sense. An expected delay timeline would make it better."
+10,A,"Hi, I’m not feeling great today so I’ll be taking the day off.",4,3,4,3,14,3,Plausible excuse but more detail required.
+10,B,"Hey, sorry — I locked my keys in my car this morning and I’m waiting for assistance to get it opened. I won’t be able to make it in until it’s sorted.",5,5,4,5,19,1,"Common excuse, not perfect on emotion."
+10,C,I won’t be coming in today because I need a break.,4,3,3,4,14,2,"Beleivable, but slightly inapproriate. "
+11,A,"Hi, I’m really sorry but I’ve had a sudden allergic reaction this morning and need to get it checked out, so I won’t be able to come in today.",5,4,4,4,17,1,"Common occurence, but more detail e.g. what caused the reaction would help."
+11,B,I can’t come in today.,2,1,2,1,6,3,"Poor excuse, needs more detail. Likely to be questioned. "
+11,C,"Hey, apologies — my water has been shut off unexpectedly in my building and I need to wait for maintenance to resolve it before I can leave.",4,4,4,4,16,2,"Common, but arguable that they don't need to wait for the water to come back on for the whole building. Seems like someone else's responsibilty."
+12,A,"Hi, I’m really sorry but I woke up with a severe headache and don’t think I’ll be able to focus properly today. I’m going to rest and aim to be back tomorrow.",4,5,5,5,19,1,"Lots of detail in this realistic response: 'severe', 'focus properly' 'aim to be back'. Excellent excuse."
+12,B,I won’t be coming in today as I have something important to take care of.,3,2,3,2,10,3,"Very vague, but plausible excuse. Not much emotion or explanation. Suspicious. "
+12,C,"Hey, apologies — my car battery died this morning and I’m waiting for someone to come help me jump-start it, so I’ll be delayed for most of the day.",4,4,4,4,16,2,Common excuse with reasonable detail. 
+13,A,"Hi, I’m not feeling 100% today so I’ll be taking the day off.",4,3,3,4,14,2,"Common, plausible but lacks detail and full emotion."
+13,B,"Hey, sorry — my dog is unwell and I need to take them to the vet this morning, so I won’t be able to come in.",4,4,4,4,16,1,"Normal excuse, just lacks full detail to be exceptional"
+13,C,I won’t be coming in today.,2,1,2,1,6,3,"Plausible excuse, minimum detail or emotion. High suspicion."
+14,A,"Hi, I’m really sorry but there’s been a power outage in my area since early this morning and I’m unable to work until it’s resolved.",5,4,4,4,17,2,"Plausible, common excuse with good detail"
+14,B,"I can’t make it in today, I just have too much going on.",3,2,3,2,10,3,Too vague. Plausible but inappropriate.
+14,C,"Hey, apologies for the late notice — I had a minor fall this morning and hurt my ankle, so I’m going to get it checked out before deciding if I can return later.",5,5,4,4,18,1,Very detailed and realistic.
+15,A,"Hi, I’m really sorry but I didn’t sleep well last night and don’t feel up to working today.",4,3,4,3,14,2,Plausible but lacking in detail and explanation
+15,B,"Hey, apologies — I need to be at home this morning for a scheduled delivery that requires a signature, so I’ll be unavailable for a few hours.",4,4,4,4,16,1,Detailed and specific
+15,C,I won’t be coming in today because I need to handle something personal.,4,2,4,3,13,3,Quite vague but plausible.
+16,A,"Hi, I’m really sorry but I’ve been dealing with food poisoning symptoms since last night and won’t be able to work today.",5,4,4,4,17,1,"Detailed, plausible response. More belieavable/likely than C."
+16,B,I won’t be coming in today.,3,1,2,1,7,3,"Plausible, but extremely vague."
+16,C,"Hey, apologies — my child’s school just informed me that classes are cancelled today due to an issue at the facility, so I’ll need to stay home with them.",4,4,4,4,16,2,"Well-rounded response, just less likely than A."
+17,A,"Hi, I’m really sorry but I’m feeling mentally overwhelmed today and don’t think I’ll be productive. I’m going to take the day to reset and will be back tomorrow.",4,4,5,4,17,1,"Beleivable, strong emotion."
+17,B,I won’t be coming in today because I just don’t feel like working.,4,3,2,2,11,3,Plausible but vague and inappropriate
+17,C,"Hey, apologies — I had a minor panic attack this morning and need to take the day to recover. I’ll keep you updated if anything changes.",4,4,4,4,16,2,Good detail and emotion.
+18,A,"Hi, I’m really sorry but I started feeling unwell around 3am with nausea and a fever of 38.2°C, and I haven’t been able to sleep since. I don’t think I’ll be able to work effectively today.",5,5,5,5,20,1,"Excellent response, very detail, well weighted emotionally."
+18,B,"I can’t come in today, I’m sick.",4,3,3,3,13,3,Plausible but not enough detail or emotion.
+18,C,"Hey, apologies — I’m dealing with a sudden health issue this morning and won’t be able to make it in today.",4,4,4,4,16,2,"Plausible, but lacking detail."
+19,A,"Hi, I’m really sorry but my roommate locked themselves out this morning and I need to stay to let them back in later, so I won’t be able to come in.",4,4,4,3,15,2,"Plausible, decent detail. Logic in question."
+19,B,"Hey, apologies — there’s been a burst pipe in my apartment and I need to wait for maintenance to come fix it.",4,4,4,4,16,1,"Plausible, more detail would improve it. Slightly more believable than A. "
+19,C,"I won’t be coming in today, something urgent has come up.",4,2,3,3,12,3,Lacking in detail and emotion
+20,A,"Hi, I’m really sorry but I need to attend to a personal matter this morning that I can’t postpone. I’ll update you later today.",4,4,4,4,16,1,Good emotion and detail is alright.
+20,B,"Hey, apologies — I didn’t realise how exhausted I was until this morning and I don’t feel able to work today.",4,4,4,4,16,2,Poor excuse but plausible and detailed.
+20,C,I won’t be coming in today because I have things to do.,4,2,2,2,10,3,"Too vague, no emotion. "
