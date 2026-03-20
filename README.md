@@ -1,4 +1,4 @@
-Excuse Evaluation Dataset (AI Annotation Practice)
+Excuse Evaluation Dataset (RLHF Annotation Simulation)
 
 Overview
 
