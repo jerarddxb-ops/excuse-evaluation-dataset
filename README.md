@@ -41,7 +41,7 @@ Key Learnings
 	•	Consistent scoring is more valuable than perfect scoring
 
 Files
-	•	dataset.csv — annotated dataset
+	•	excuse_evaluation_dataset.csv — annotated dataset
 	•	rubric.md — detailed evaluation rubric
 
 Purpose
