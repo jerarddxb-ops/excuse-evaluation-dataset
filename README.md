@@ -1,5 +1,7 @@
 Excuse Evaluation Dataset (RLHF Annotation Simulation)
 
+This project demonstrates rubric-based evaluation, scoring, and ranking of LLM-generated responses, simulating real-world AI training workflows.
+
 Overview
 
 This project simulates real-world AI data annotation and evaluation workflows, similar to those used in RLHF (Reinforcement Learning from Human Feedback).
@@ -47,6 +49,13 @@ This project is intended to demonstrate readiness for roles such as:
 	•	AI Data Annotator
 	•	AI Trainer / Evaluator
 	•	RLHF / Model Evaluation Contributor
+
+Key Skills Demonstrated
+- Rubric design and refinement
+- Consistent multi-criteria evaluation
+- Comparative ranking of model outputs
+- Edge-case analysis and bias mitigation
+- Structured dataset creation for AI training
 
 Author
 Jerard Venter Cape Town, South Africa
